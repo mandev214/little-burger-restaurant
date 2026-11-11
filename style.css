@@ -1,0 +1,41 @@
+body {
+  background: #FFF8E7;
+  color: #333333;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  background: #3E2723;
+  color: #FFC107;
+  text-align: center;
+  padding: 15px;
+}
+
+h2 {
+  color: #C62828;
+}
+
+a {
+  color: #E65100;
+  text-decoration: none;
+}
+a:hover {
+  background: #3E2723;
+  }
+
+table {
+  background: white;
+}
+
+th {
+  background: #FF8F00;
+  color: white;
+}
+button {
+  background: orange;
+  color: white;
+  padding: 5px;
+}
+button:hover {
+  background: #3E2723;
+  }
